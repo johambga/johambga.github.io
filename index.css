@@ -229,13 +229,13 @@ article {
 	transform: translateY(-2px);
 }
 /*--------------*/
-.slide-1 {background-image: url("Magazinedesign.png")}
-.slide-2 {background-image: url("explmock.png")}
-.slide-3 {background-image: url("fondationbaur.png")}
-.slide-4 {background-image: url("brockmannmuller.png")}
-.slide-5 {background-image: url("bee.png")}
-.slide-6 {background-image: url("fondationbaur.png")}
-.slide-7 {background-image: url("up.png")}
+.slide-1 {background-image: url("../Magazinedesign.png")}
+.slide-2 {background-image: url("../explmock.png")}
+.slide-3 {background-image: url("../fondationbaur.png")}
+.slide-4 {background-image: url("../brockmannmuller.png")}
+.slide-5 {background-image: url("../bee.png")}
+.slide-6 {background-image: url("../fondationbaur.png")}
+.slide-7 {background-image: url("../up.png")}
 
 /*Réalisation*/
 
